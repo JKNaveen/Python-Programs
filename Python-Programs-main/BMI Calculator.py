@@ -7,7 +7,7 @@ bmi = weight / (height ** 2)
 if bmi < 18.5:
     bmi_category = "Underweight"
 elif bmi < 25:
-    bmi_category = "Normal weight"
+    bmi_category = "Normal weight"# ok does not need to be changed
 elif bmi < 30:
     bmi_category = "Overweight"
 else:
